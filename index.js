@@ -11,4 +11,4 @@ import exercise4 from './exercise4';
 import index from './components/Input/index.tsx';
 import exercise6 from './exercise6';
 import exercise7 from './exercise7';
-AppRegistry.registerComponent(appName, () => exercise7);
+AppRegistry.registerComponent(appName, () => App);
