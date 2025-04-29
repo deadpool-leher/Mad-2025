@@ -1,9 +1,9 @@
 import {StyleSheet, Text, View} from 'react-native';
 import React from 'react';
-import Header from './header/index';
-import TextInput from './textinput/index';
-import Button from './button/index';
-import Gap from './gap/index';
+import Header from '../../components/molecule/header signup/index';
+import TextInput from '../../components/molecule/textinput signup/index';
+import Button from '../../components/atoms/button signup/index';
+import Gap from '../../components/atoms/button signup/gap signup/index';
 
 const SignUp = () => {
   return (
